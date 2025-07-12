@@ -1,6 +1,7 @@
 // 0-javascript_is_amazing.js
 const myVar ='JavaScript is amazing';
 console.log(myVar);
+// 1-multi_languages.js
 const line1 = 'C is fun';
 const line2 = 'Python is cool';
 const line3 = 'JavaScript is amazing';
